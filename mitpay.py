@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 import traceback
 from xml.etree import ElementTree as ET
